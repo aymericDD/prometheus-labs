@@ -1,0 +1,6 @@
+alertmanager/*
+node_exporter/*
+prometheus/*
+
+!**/.gitkeep
+!**/*.yml
